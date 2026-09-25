@@ -7,7 +7,7 @@
 [![UI](https://img.shields.io/badge/UI-egui-blue?style=flat-square)](https://github.com/emilk/egui)
 [![Format](https://img.shields.io/badge/package-DEB%20%7C%20RPM-purple?style=flat-square)](https://www.debian.org/)
 [![License](https://img.shields.io/badge/license-GPL--3.0--or--later-green?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0.html)
-[![AppImage](https://img.shields.io/badge/distro-AppImage-red?style=for-the-badge)
+![AppImage](https://img.shields.io/badge/distro-AppImage-red?style=for-the-badge)
 
 Auto Package Installer is a native Linux desktop application for installing local `.deb` and `.rpm` packages together with the dependencies they require. It is designed for vendor driver bundles, offline package archives, manually collected repositories, and systems where a conventional package-manager workflow is inconvenient or incomplete.
 
